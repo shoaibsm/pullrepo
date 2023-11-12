@@ -1,5 +1,5 @@
 # pullrepo
 
-# Chages from local
+# Chages from local pc
 
 # changes from github
